@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Megrim&family=Play:wght@700&display=swap');
+
+.stats {
+    padding: 0;
+
+}
+
+.stats p {
+    color: #ffffff;
+    text-align: center;
+    font-size: 1.4rem;
+    font-family: 'Megrim', cursive;
+    font-weight: bold;
+    background-color: rgba(0,0,0,0.5);
+    margin: 1%;
+    letter-spacing: 2px;
+}
+
+.stats .instructions {
+    font-family: 'Play', sans-serif;
+}
+

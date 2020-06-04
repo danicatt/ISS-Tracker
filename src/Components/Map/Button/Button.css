@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap');
+
+.button {
+    text-align: center;
+    display: block;
+    padding-bottom: 0.5%;
+}
+
+.button button {
+    border-radius: 3%;
+    font-size: 2rem;
+    background-color: gold;
+    border: 0;
+    padding: 0.5%;
+    font-family: 'Play', sans-serif;
+    text-align: center;
+}
+
+.button button:hover {
+    background-color: purple;
+}
